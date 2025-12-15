@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>GenAI Text Summarizer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="card">
+  <h1> GenAI Résumeur</h1>
+
+  <textarea id="text" placeholder="Colle ton texte ici..."></textarea>
+
+  <div class="controls">
+    <select id="length">
+      <option value="short">Court</option>
+      <option value="medium" selected>Moyen</option>
+      <option value="long">Long</option>
+    </select>
+
+    <button id="btn">Résumer</button>
+  </div>
+
+  <div id="result">Le résumé apparaîtra ici...</div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
