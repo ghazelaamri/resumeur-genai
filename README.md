@@ -6,7 +6,7 @@ This application allows users to paste a text, choose the summary length, and ge
 ## 📸 Screenshots
 
 ![Application Interface](screenshots/home.png)
-
+![Summary result](screenshots/result.png)
 
 ## ✨ Features
 - 🔹 Automatic text summarization using Generative AI  
