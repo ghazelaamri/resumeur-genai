@@ -3,7 +3,10 @@
 A simple and modern **AI-based automatic text summarizer** built using **Node.js**, **Express**, and **Generative AI**.  
 This application allows users to paste a text, choose the summary length, and generate a concise summary automatically.
 
----
+## 📸 Screenshots
+
+![Application Interface](screenshots/home.png)
+
 
 ## ✨ Features
 - 🔹 Automatic text summarization using Generative AI  
